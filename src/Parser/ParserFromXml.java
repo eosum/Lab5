@@ -49,8 +49,6 @@ public class ParserFromXml {
     private Long impactSpeed = null;
     private Integer minutesOfWaiting = null;
 
-    private boolean flagRealHero = true, flagHasToothpick = true;
-
 
     /**
      *

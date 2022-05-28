@@ -1,11 +1,9 @@
 package App;
 
-import Commands.*;
+import Server.Commands.*;
 
 import java.util.Arrays;
 import java.util.HashMap;
-
-import static java.lang.System.exit;
 
 /**
  * CommandsList class

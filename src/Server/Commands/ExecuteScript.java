@@ -1,4 +1,4 @@
-package Commands;
+package Server.Commands;
 
 import App.CommandsList;
 import CheckCorrectData.CheckPathCorrect;
